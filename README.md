@@ -1,2 +1,2 @@
 # Food-Recommendation-App
-Created with CodeSandbox
+A food recommendation app, that was made using ReactJs on codesandbox.
